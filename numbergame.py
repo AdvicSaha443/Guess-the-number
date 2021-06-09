@@ -1,6 +1,6 @@
 import random
 
-number = random.randrange(1,9)
+number = random.randint(1,9)
 chances=5
 
 while chances>= 0:
